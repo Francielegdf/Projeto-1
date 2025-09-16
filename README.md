@@ -11,11 +11,13 @@
 
 # Proposta do projeto:
 
-    Uma empresa de comércio eletrônico, Store 1, começou recentemente a coletar dados sobre seus clientes. O objetivo da Store 1 é entender melhor o comportamento dos clientes e tomar decisões baseadas em dados para melhorar experiência online deles.
-    Como parte da equipe analítica, sua primeira tarefa é avaliar a qualidade de uma amostra de dados coletados e preparar elas para análises futuras.
+    Uma empresa de comércio eletrônico, Store 1, começou recentemente a coletar dados sobre seus clientes. 
+    O objetivo da Store 1 é entender melhor o comportamento dos clientes e tomar decisões baseadas em dados para           melhorar experiência online deles.
+    Como parte da equipe analítica, sua primeira tarefa é avaliar a qualidade de uma amostra de dados coletados e          preparar elas para análises futuras.
 
 # Técnologias usadas:
 
     Python;
     Listas;
     Funções.
+
